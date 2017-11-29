@@ -1,0 +1,1 @@
+%timeit conditional_n_purchases(5, data['frequency'], data['recency'], data['T'])
