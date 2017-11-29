@@ -26,3 +26,8 @@ Materials for my [PyData NYC 2017 tutorail](https://pydata.org/nyc2017/schedule/
 
 Once your notebook server is running, (`jupyter notebook`) your browser should open up to the webpage (`http://localhost:8888` by default).
 Open the notebook `notebooks/00-README.ipynb` and familiarize yourself with using notebook.
+
+## Issue
+
+conda env create -n ph2t python=3.6 numpy=1.13= pandas=0.21.0 matplotlib=2.1 seaborn=0.8 ipython=6.2 jupyter=1.0.0 notebook=5.2 dask=0.15.4 distributed=1.19 toolz=0.8 pandas-datareader=0.5 scikit-learn=0.19 scipy=0.19 statsmodels=0.8 pyarrow=0.7.1
+pip install lifetime altair
